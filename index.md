@@ -43,10 +43,10 @@ Here are some qualifications I appreciate in teammates I work with
 
 ### Task List 
 Here is my usual daily to-list 
-[x] Check personal and school email in the morning 
-[ ] Read 10 pages of a book 
-[ ] Do 2 LeetCode problems 
-[ ] Check Canvas for upcoming deadlines 
+- [x] Check personal and school email in the morning 
+- [ ] Read 10 pages of a book 
+- [ ] Do 2 LeetCode problems 
+- [ ] Check Canvas for upcoming deadlines 
 
 ### Thank you 
 If you have made it til the end, thank you and have a great day! 
