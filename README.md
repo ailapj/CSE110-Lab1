@@ -1,2 +1,2 @@
 # CSE110-Lab 
-My favorite programming language is C++! 
+published page: https://ailapj.github.io/CSE110-Lab1/
